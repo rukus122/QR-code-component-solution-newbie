@@ -1,0 +1,35 @@
+body{
+    background-color:#B5D1FF;
+}
+
+.backqr{
+    background-color: white;
+    width:400px;
+    height:650px;
+    margin-top: 15%;
+    border-radius: 25px;
+    box-shadow: 0px 0px 18px black;
+    
+    
+}
+.qrcode{
+    width:370px;
+    margin-top: 4%;
+    border-radius: 25px;
+    
+    
+}
+.p1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: navy;
+    font-weight: bold;
+    
+}
+.p2{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(149, 149, 151);
+    
+    
+}
